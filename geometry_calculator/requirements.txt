@@ -1,3 +1,0 @@
-appJar
-openpyxl
-python-docx
